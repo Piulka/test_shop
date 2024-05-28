@@ -1,6 +1,1 @@
-def main():
-    pass
-
-
-if __name__ == '__main__':
-    main()
+TOKEN = '6351699350:AAE16wJ0080soByx0nmWOZwDztt1rZ3QvSc'

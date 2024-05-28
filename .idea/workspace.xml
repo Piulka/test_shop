@@ -1,30 +1,147 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd465033-96e0-4080-a8af-c38abe6929d7" name="Changes" comment="" />
+    <list default="true" id="dd465033-96e0-4080-a8af-c38abe6929d7" name="Changes" comment="Начало">
+      <change afterPath="$PROJECT_DIR$/Flask.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/del.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/keyboard_main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/product.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Token.py" beforeDir="false" afterPath="$PROJECT_DIR$/Token.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/admin_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.db" beforeDir="false" afterPath="$PROJECT_DIR$/db.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/database.py" beforeDir="false" afterPath="$PROJECT_DIR$/database.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/db.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/models/product.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/db/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db/update_product.py" beforeDir="false" afterPath="$PROJECT_DIR$/update_product.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard_inline.py" beforeDir="false" afterPath="$PROJECT_DIR$/handlers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/keyboard_products.py" beforeDir="false" afterPath="$PROJECT_DIR$/keyboard_products.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mine.py" beforeDir="false" afterPath="$PROJECT_DIR$/product_del.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_management.py" beforeDir="false" afterPath="$PROJECT_DIR$/product_management.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product_selection.py" beforeDir="false" afterPath="$PROJECT_DIR$/product_selection.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Piulka&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Piulka/SHOP.git&quot;,
+    &quot;accountId&quot;: &quot;4abed2f3-8451-44fe-87c5-0c1c37541fc3&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2gV1dVGr0fmlYaDnTN6bWTN8jum" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.Flask.executor&quot;: &quot;Run&quot;,
+    &quot;Python.admin_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.base.executor&quot;: &quot;Run&quot;,
+    &quot;Python.database.executor&quot;: &quot;Run&quot;,
+    &quot;Python.db.executor&quot;: &quot;Run&quot;,
+    &quot;Python.del.executor&quot;: &quot;Run&quot;,
+    &quot;Python.handlers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.keyboard_inline.executor&quot;: &quot;Run&quot;,
+    &quot;Python.keyboard_products.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mine.executor&quot;: &quot;Run&quot;,
+    &quot;Python.product.executor&quot;: &quot;Run&quot;,
+    &quot;Python.product_del.executor&quot;: &quot;Run&quot;,
+    &quot;Python.product_management.executor&quot;: &quot;Run&quot;,
+    &quot;Python.product_selection.executor&quot;: &quot;Run&quot;,
+    &quot;Python.run.executor&quot;: &quot;Run&quot;,
+    &quot;Python.update_product.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;
+    ]
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/db" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Flask" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SHOP" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Flask.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Flask" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -42,5 +159,19 @@
       <updated>1715768018212</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

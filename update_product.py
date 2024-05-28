@@ -7,10 +7,10 @@ Session = sessionmaker(bind=engine)
 session = Session()
 
 # Идентификатор продукта, который нужно обновить
-product_id = 10  # Замените на реальный идентификатор продукта
+product_id = 28  # Замените на реальный идентификатор продукта
 
 # Находим продукт по идентификатору
-product = session.query(Product).get(product_id)
+product = session.get(Product, product_id)
 
 # Если продукт найден, обновляем его поля
 if product:
