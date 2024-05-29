@@ -1,10 +1,13 @@
 # main.py
+from dotenv import load_dotenv
+load_dotenv()
+
 from telebot import TeleBot
-from Token import TOKEN
 from src import handlers
+from os import getenv
 
 # Инициализация бота
-bot = TeleBot(TOKEN)
+bot = TeleBot(getenv("TOKEN"))
 
 
 # Перемещение регистрации обработчиков в main.py
