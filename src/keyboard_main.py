@@ -1,6 +1,6 @@
 import telebot
 
-from admin_list import add_admin, is_admin
+from src.admin_list import add_admin, is_admin
 
 
 def create_inline_keyboard(message):

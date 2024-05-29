@@ -1,7 +1,7 @@
 # main.py
 from telebot import TeleBot
 from Token import TOKEN
-import handlers
+from src import handlers
 
 # Инициализация бота
 bot = TeleBot(TOKEN)

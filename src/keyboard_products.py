@@ -1,5 +1,5 @@
-from database import Session
-from models.product import Product
+from src.db.database import Session
+from src.db.models.product import Product
 
 
 def get_names_from_db():

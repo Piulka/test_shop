@@ -1,10 +1,10 @@
 # handlers.py
 import telebot
-from keyboard_main import create_inline_keyboard
-from models.product import Product
-from database import Session
-from product_management import add_product, get_cancel_button
-import product_selection
+from src.keyboard_main import create_inline_keyboard
+from src.db.models.product import Product
+from src.db.database import Session
+from src.db.product_management import add_product
+from src.db import product_selection
 
 
 def register_handlers(bot):

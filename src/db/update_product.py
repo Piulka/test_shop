@@ -1,6 +1,6 @@
 from sqlalchemy.orm import sessionmaker
 from models.product import Product
-from database import engine
+from src.db.database import engine
 
 # Создаем сессию для взаимодействия с базой данных
 Session = sessionmaker(bind=engine)

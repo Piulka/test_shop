@@ -1,7 +1,7 @@
 # product_management.py
 from telebot import types
-from models.product import Product
-from database import Session
+from src.db.models.product import Product
+from src.db.database import Session
 
 
 def add_product(message, bot):

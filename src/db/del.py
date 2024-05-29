@@ -1,5 +1,5 @@
-from base import Base
-from database import Session
+from src.db.base import Base
+from src.db.database import Session
 
 session = Session()
 

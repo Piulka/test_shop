@@ -1,9 +1,9 @@
 # product_selection.py
 from telebot import types
-from models.product import Product
-from database import Session
-from admin_list import is_admin
-from product_del import delete_product
+from src.db.models.product import Product
+from src.db.database import Session
+from src.admin_list import is_admin
+from src.db.product_del import delete_product
 
 
 def create_products_keyboard(products, offset=0):

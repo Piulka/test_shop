@@ -1,5 +1,5 @@
-from models.product import Product
-from database import Session
+from src.db.models.product import Product
+from src.db.database import Session
 
 
 def delete_product(product_id):

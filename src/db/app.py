@@ -1,4 +1,4 @@
-from database import get_session
+from src.db.database import get_session
 from models.product import Product
 
 
